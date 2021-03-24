@@ -1,3 +1,5 @@
+// Time : O(n)
+// SPace: O(1)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
